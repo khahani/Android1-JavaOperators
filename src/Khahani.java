@@ -33,5 +33,11 @@ public class Khahani {
         int rectangleArea = width * height;
         System.out.println(rectangleArea);
 
+        // Take a look at this tip
+        System.out.print("Tip: ");
+        System.out.println(width + height);
+
+        System.out.println("Tip: " + width + height);
+
     }
 }
