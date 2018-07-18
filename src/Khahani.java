@@ -25,5 +25,13 @@ public class Khahani {
         a/=3;
         a%=3;
 
+        // Calculate area of a rectangle
+        int width, height;
+        width = 4;
+        height = 2;
+
+        int rectangleArea = width * height;
+        System.out.println(rectangleArea);
+
     }
 }
